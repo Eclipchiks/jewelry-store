@@ -1,0 +1,255 @@
+
+#fullbg {
+  background-color: #B1B2FF;
+}
+
+/* ------------------------------FOOTER --------------------------------------*/
+#footer{
+  background-color: #B1B2FF;
+  text-align: center;
+  height: 200px;
+
+}
+
+
+.paragraph-footer {
+  margin-left: 15px;
+  margin-top: 100px;
+}
+
+
+
+/* ------------------------------FEATURES --------------------------------------*/
+#features {
+  background-color: #B1B2FF;
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+.features-box {
+  text-align: center;
+  padding: 5%;
+}
+
+
+
+.i {
+  color: #554994;
+  margin-bottom: 1rem;
+
+}
+
+
+/* ------------------------------testimonial --------------------------------------*/
+
+#testimonial {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.item-car {
+  width: 1920px;
+  weight: 100px;
+}
+
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  transition: opacity 0s 2.6s;
+}
+
+/* -----------------CSS for all title section---------------------- */
+#title {
+  background-color: #B1B2FF;
+  position: relative;
+  height: 100px;
+}
+
+
+
+/* --------------------------------NAVBAR------------------------------------------------------ */
+#nav {
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 4.5rem;
+}
+
+
+
+
+.dropdown-menu{
+  background-color: #B1B2FF;
+}
+
+.dropdown-menu a:hover{
+  background-color: #B2A4FF;
+}
+
+
+.nav-link {
+  font-size: 17px;
+  font-family: 'Allura', cursive;
+  font-family: 'GFS Didot', serif;
+}
+
+
+.navbar-brand {
+  font-size: 2.7rem;
+  font-family: "Ubuntu";
+  font-weight: bold;
+  margin-right: 550px;
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+.nav-logo {
+  width: 30px;
+}
+
+.noSpace {
+  padding-left: 0px;
+}
+
+.nRight {
+  padding-right: 0px;
+}
+
+
+/* For container like upper------------------------------------ */
+.container-fluid {
+  padding: 25px 20%;
+}
+
+
+
+
+
+
+/*FONTS -------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-black", sans-serif;
+}
+
+h2 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 1.7rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+p {
+  color: #554994;
+}
+
+.titleh1{
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+}
+
+
+
+/* GREDZIENI---------------------------------------------> */
+
+ .gg{
+   text-align: center;
+ }
+
+.img {
+  width: 300px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+
+.price {
+  text-align: left;
+}
+
+.spaceBetween{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+
+
+.container-fluid-gredzeni{
+  margin-top: 70px;
+}
+
+
+.center {
+  margin: auto;
+  border: 3px ;
+  padding: 10px;
+}
+
+.space-top{
+  padding-top: 35px;
+}
+
+/* KRESTI---------------------------------------------> */
+
+
+.img-kresti {
+  width: 250px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+/* ABOUT  --------------------------------------------->*/
+
+.h3-about{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+* {box-sizing:border-box;}
+.wrap {
+height: 200px;
+padding: 25px;
+}
+.gradient {
+height: 150px;
+width: 50%;
+margin: 0 auto;
+border: 5px solid transparent;
+border-image: linear-gradient(to right, transparent 0%, #B1BCE6 100%);
+border-image-slice: 1;
+}
+
+/* CONTACT  --------------------------------------------->*/
+
+.container-map  {
+  width: 100%;
+  height: 100%;
+}
+
+/* EMAIL  --------------------------------------------->*/
+
+.email {
+  margin-bottom: 10px;
+  background-color: #B1B2FF;
+  border-image: linear-gradient(to right, transparent 0%, #B1BCE6 100%);
+  border-image-slice: 1;
+  text-align: left;
+}
+
+.container-fluid-email{
+  padding: 50px 50%;
+  text-align: left;
+}
